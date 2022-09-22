@@ -1,3 +1,5 @@
+备份了pytdx最后一次更新的原始代码
+
 # Pytdx - Python tdx数据接口
 
 [![Build Status](https://travis-ci.org/rainx/pytdx.svg?branch=master)](https://travis-ci.org/rainx/pytdx)
